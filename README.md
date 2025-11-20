@@ -287,7 +287,7 @@ class _AdvancedVideoPlayerState extends State<AdvancedVideoPlayer> {
 ```
 
 ## working example
-https://github.com/user-attachments/assets/15fb2106-68c7-4c5d-b32b-168d05bed8fe
+https://github.com/user-attachments/assets/3118b93a-f38d-4985-881b-c743a4725485
 
 ## API Reference
 
