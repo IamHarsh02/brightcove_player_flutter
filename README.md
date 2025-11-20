@@ -2,6 +2,8 @@
 
 A Flutter plugin for integrating Brightcove video player into your Flutter applications. This plugin provides native Brightcove player support for both Android and iOS platforms.
 
+## Do check [documentation.md](https://github.com/IamHarsh02/brightcove_player_flutter/blob/main/documentation.md) for detailed installation
+
 ## Features
 
 - ✅ **Cross-platform support**: Android and iOS
@@ -13,11 +15,9 @@ A Flutter plugin for integrating Brightcove video player into your Flutter appli
 - ✅ **Audio management**: Proper audio focus handling
 - ✅ **Customizable**: Support for custom account ID, policy key, and video ID
 
-##do check documentation.md for detailed installation
-[Uploading documentation.md…]()
 
 
-## Installation
+## Installation Overview
 
 Add this to your package's `pubspec.yaml` file:
 
