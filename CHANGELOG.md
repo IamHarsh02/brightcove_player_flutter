@@ -42,8 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Flutter: Platform views for native UI integration
 - Method channels for bidirectional communication
 
-## [Unreleased]
+## [1.0.1] - 2025-11-20
 
-### Planned
-
-
+### Added
+Added documentation.md

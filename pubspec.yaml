@@ -1,6 +1,6 @@
 name: brightcove_player_flutter
 description: A Flutter plugin for integrating Brightcove video player into your Flutter applications. Supports Android and iOS with native Brightcove SDKs.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/IamHarsh02/brightcove_player_flutter
 repository: https://github.com/IamHarsh02/brightcove_player_flutter
 issue_tracker: https://github.com/IamHarsh02/brightcove_player_flutter/issues
