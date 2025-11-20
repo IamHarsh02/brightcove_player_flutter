@@ -13,6 +13,10 @@ A Flutter plugin for integrating Brightcove video player into your Flutter appli
 - ✅ **Audio management**: Proper audio focus handling
 - ✅ **Customizable**: Support for custom account ID, policy key, and video ID
 
+##do check documentation.md for detailed installation
+[Uploading documentation.md…]()
+
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
