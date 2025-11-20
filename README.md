@@ -286,6 +286,9 @@ class _AdvancedVideoPlayerState extends State<AdvancedVideoPlayer> {
 }
 ```
 
+## working example
+https://github.com/user-attachments/assets/15fb2106-68c7-4c5d-b32b-168d05bed8fe
+
 ## API Reference
 
 ### BrightcovePlayerWidget
