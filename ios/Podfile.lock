@@ -1,0 +1,41 @@
+PODS:
+  - Brightcove-Player-Core (6.12.2):
+    - Brightcove-Player-Core/Framework (= 6.12.2)
+  - Brightcove-Player-Core/Framework (6.12.2)
+  - Brightcove-Player-IMA (6.12.2):
+    - Brightcove-Player-IMA/Framework (= 6.12.2)
+    - GoogleAds-IMA-iOS-SDK (= 3.18.1)
+    - GoogleAds-IMA-tvOS-SDK (= 4.6.1)
+  - Brightcove-Player-IMA/Framework (6.12.2):
+    - Brightcove-Player-Core (= 6.12.2)
+    - GoogleAds-IMA-iOS-SDK (= 3.18.1)
+    - GoogleAds-IMA-tvOS-SDK (= 4.6.1)
+  - Flutter (1.0.0)
+  - GoogleAds-IMA-iOS-SDK (3.18.1)
+
+DEPENDENCIES:
+  - Brightcove-Player-Core
+  - Brightcove-Player-IMA
+  - Flutter (from `Flutter`)
+  - GoogleAds-IMA-iOS-SDK
+
+SPEC REPOS:
+  https://github.com/brightcove/BrightcoveSpecs.git:
+    - Brightcove-Player-Core
+    - Brightcove-Player-IMA
+  trunk:
+    - GoogleAds-IMA-iOS-SDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Brightcove-Player-Core: 8bc204f1d40d0cea4170e289e54f14cd3af6b1d6
+  Brightcove-Player-IMA: 982d6d4f62236cffcadbace4180fe8df637ec7d0
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  GoogleAds-IMA-iOS-SDK: 54941bbcc0fc7408ad5ee13e4347343604927eea
+
+PODFILE CHECKSUM: 0128ee5f95ae47b3f21486a428cf7885888f68fd
+
+COCOAPODS: 1.16.2
