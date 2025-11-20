@@ -286,6 +286,9 @@ class _AdvancedVideoPlayerState extends State<AdvancedVideoPlayer> {
 }
 ```
 
+## working example
+https://github.com/user-attachments/assets/3118b93a-f38d-4985-881b-c743a4725485
+
 ## API Reference
 
 ### BrightcovePlayerWidget
@@ -296,9 +299,9 @@ A widget that displays a Brightcove video player.
 
 | Property | Type | Description | Required |
 |----------|------|-------------|----------|
-| `accountId` | `String?` | Your Brightcove account ID | No |
-| `policyKey` | `String?` | Your Brightcove policy key | No |
-| `videoId` | `String?` | The video ID to play | No |
+| `accountId` | `String?` | Your Brightcove account ID | Yes |
+| `policyKey` | `String?` | Your Brightcove policy key | Yes |
+| `videoId` | `String?` | The video ID to play | Yes |
 | `width` | `double?` | Width of the player | No |
 | `height` | `double?` | Height of the player | No |
 | `onVideoStart` | `VoidCallback?` | Called when video starts | No |
